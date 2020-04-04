@@ -1,3 +1,5 @@
+#!/bin/bash
+pip install jupyter
 pip install geos
 pip install geonamescache
 pip install matplotlib
